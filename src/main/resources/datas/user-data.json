@@ -1,0 +1,26 @@
+[
+  {
+    "_class": "com.versusmind.demo.entities.Consumer",
+    "id": 1,
+    "firstname": "Homer",
+    "lastname": "Simpson",
+    "address": {
+      "id": 1,
+      "number": "742",
+      "street": "Evergreen Terrace",
+      "city": "Springfield"
+    }
+  },
+  {
+    "_class": "com.versusmind.demo.entities.Consumer",
+    "id": 2,
+    "firstname": "Ned",
+    "lastname": "Flanders",
+    "address": {
+      "id": 2,
+      "number": "740",
+      "street": "Evergreen Terrace",
+      "city": "Springfield"
+    }
+  }
+]
